@@ -491,7 +491,7 @@ Some possible improvements are:
 
 # 👨‍💻 Author
 
-### Rajesh Das
+### Rajesh Das Joy
 
 **BSc in Computer Science & Engineering**
 Premier University, Chittagong
